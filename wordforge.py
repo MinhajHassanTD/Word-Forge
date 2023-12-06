@@ -1,10 +1,3 @@
-'''
-Contributions
-Minhaj - Main Window , Entry Frame , Pop Up Configuration , Restart
-Salman - Main Frame , Difficulty Setting , Dictionary Import , Letter Info
-
-'''
-
 import tkinter as tk
 import random
 import tkinter.messagebox
